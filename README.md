@@ -1,6 +1,6 @@
 # Patrick Perez
 
-Full Stack / AI / Software Engineer
+Full Stack / AI / DevOps / Software Engineer
 
 Angeles City, Pampanga, Philippines
 

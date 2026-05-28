@@ -1,16 +1,13 @@
-## Hi there 👋
+# Patrick Perez
 
-<!--
-**ucancallmenoy/ucancallmenoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack / AI / Software Engineer
 
-Here are some ideas to get you started:
+Angeles City, Pampanga, Philippines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+I am a Full Stack Engineer focused on building reliable, maintainable, and practical software. I work across the entire stack — from frontend interfaces and backend systems to deployment, infrastructure, cloud environments, and performance optimization.
+
+I build systems with clarity and purpose, keeping things simple where possible and scalable where necessary. I also integrate AI when it adds real value to the product and improves the overall experience.
+
+I value consistency, discipline, and long-term thinking. I prefer stable systems over unnecessary complexity and believe good systems are built through patience, responsibility, and attention to detail.

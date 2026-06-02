@@ -6,8 +6,4 @@ Angeles City, Pampanga, Philippines
 
 ---
 
-I am a Full Stack Engineer focused on building reliable, maintainable, and practical software. I work across the entire stack — from frontend interfaces and backend systems to deployment, infrastructure, cloud environments, and performance optimization.
-
-I build systems with clarity and purpose, keeping things simple where possible and scalable where necessary. I also integrate AI when it adds real value to the product and improves the overall experience.
-
-I value consistency, discipline, and long-term thinking. I prefer stable systems over unnecessary complexity and believe good systems are built through patience, responsibility, and attention to detail.
+I specialize in building end-to-end applications that are reliable, maintainable, and user-focused. My work spans the entire software lifecycle, from developing responsive front-end interfaces and designing robust back-end systems to managing deployment, infrastructure, cloud environments, and performance optimization. I take a practical approach to development, understanding that every layer of a system contributes to its overall quality, stability, and long-term success. Beyond application development, I apply DevOps practices to streamline delivery, improve reliability, and ensure systems remain scalable as requirements evolve. I also integrate AI where it provides clear and measurable value, using it to enhance functionality and user experience without introducing unnecessary complexity. I approach my work with discipline, consistency, and attention to detail, prioritizing clarity, stability, and purpose over trends. My focus is on building solutions that solve real problems, perform reliably, and remain effective over time.
